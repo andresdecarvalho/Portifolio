@@ -1,6 +1,6 @@
 # Portifolio
 <h2>Portfólio de algumas atividade feitas em Java</h2>
-<img src= "https://github.com/andresdecarvalho/Portifolio/blob/master/imgs/01.png">
+<img src= "https://github.com/andresdecarvalho/Portifolio/imgs/01.PNG">
 <br>
 <img src= "https://github.com/andresdecarvalho/Portifolio/imgs/idade.png">
 <br>
